@@ -8,7 +8,7 @@ Convert screen for text-to-braille and braille-to-text conversion
 Games screen with upcoming educational challenges
 Settings screen for customizing the app experience
 Developers screen highlighting the team behind LearnAble
-## Screenshots
+## Screenshots :-
 Below are some screenshots showcasing the key features of LearnAble:
 
 *Home screen with voice interaction options*
