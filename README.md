@@ -103,3 +103,6 @@ License
 This project is licensed under the MIT License. See the LICENSE file for details.
 Contact
 For questions or support, please open an issue in the repository or contact the developers via the app's Developers section.
+
+
+.
